@@ -1,0 +1,4 @@
+package response
+
+class FailedResponse {
+}
